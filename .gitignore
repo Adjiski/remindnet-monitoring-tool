@@ -1,0 +1,11 @@
+.env
+*.pem
+*.json
+!*.example.json
+outputs/
+streamlit.log
+streamlit.err.log
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.venv/
